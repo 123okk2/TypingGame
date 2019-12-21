@@ -1,0 +1,4 @@
+﻿  TypingPractice.c
+c:\users\mkjh9\desktop\포트폴리오\1. 프로젝트 활동\10. 2019 산성비 (윈도우즈 프로그래밍 과제-타자연습)\과제1_20140896_이민우\typingpractice.c(252): warning C4101: 'frontWord' :참조되지 않은 지역 변수입니다.
+c:\users\mkjh9\desktop\포트폴리오\1. 프로젝트 활동\10. 2019 산성비 (윈도우즈 프로그래밍 과제-타자연습)\과제1_20140896_이민우\typingpractice.c(250): warning C4101: 'index' :참조되지 않은 지역 변수입니다.
+  TypingPractice.vcxproj -> C:\Users\mkjh9\Desktop\포트폴리오\1. 프로젝트 활동\10. 2019 산성비 (윈도우즈 프로그래밍 과제-타자연습)\과제1_20140896_이민우\Debug\TypingPractice.exe
